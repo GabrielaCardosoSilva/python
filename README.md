@@ -1,2 +1,4 @@
 # Python
- Exercícios iniciais de Python e fundamentos
+🟢 Exercícios e princípios básicos de Python
+##
+🔴 Beginning Python Exercises and Fundamentals
